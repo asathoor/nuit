@@ -1,5 +1,6 @@
 /**
  * Gulp.js
+ * run: gulp
  */
 'use strict';
 
@@ -16,5 +17,5 @@ gulp.task('sass:watch', function () {
   gulp.watch('./sass/**/*.scss', ['sass']);
 });
 
-// the default
+// the default (add this by "default missing ..." error)
 gulp.task('default', [ 'sass', 'sass:watch' ]);

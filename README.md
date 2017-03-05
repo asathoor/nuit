@@ -7,6 +7,12 @@ This childtheme is a fork of my [tw17child](https://github.com/asathoor/tw17chil
 
 Nuit demonstrates rapid development with Nodejs.
 
+## Nodejs features
+
+* Gulp
+* Bower
+* Npm
+
 
 ## Sources
 
