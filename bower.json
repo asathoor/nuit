@@ -1,0 +1,26 @@
+{
+  "name": "nuit",
+  "description": "A WordPress Twenty Seventeen childtheme with Nodejs features.",
+  "main": "index.js",
+  "authors": [
+    "Per Thykjaer Jensen"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "Twenty",
+    "Seventeen",
+    "childtheme",
+    "WordPress"
+  ],
+  "homepage": "https://github.com/asathoor/nuit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animateCSS": "^1.2.1"
+  }
+}
