@@ -1,0 +1,25 @@
+{
+  "name": "nuit",
+  "version": "1.0.0",
+  "description": "A WordPress Twenty Seventeen childtheme with Nodejs features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asathoor/nuit.git"
+  },
+  "keywords": [
+    "Twenty",
+    "Seventeen",
+    "childtheme",
+    "WordPress"
+  ],
+  "author": "Per Thykjaer Jensen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/asathoor/nuit/issues"
+  },
+  "homepage": "https://github.com/asathoor/nuit#readme"
+}
