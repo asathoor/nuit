@@ -1,0 +1,32 @@
+/*!
+ Theme Name:   Nuit: a Twenty Seventeen Child
+ Theme URI:    https://github.com/asathoor/nuit
+ Description:  A Twenty Seventeen Child Theme with some Nodejs features.
+ Author:       Per Thykjær Jensen
+ Author URI:   http://multimusen.dk
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v3 or later
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+ Tags:         one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+ Text Domain:  petj_nuit
+*/
+
+/**
+ * Glyphicons
+ */
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+
+/**
+ * Plugin Dannebrog: flag size
+ * @package: Dannebrog
+ * @url: https://github.com/asathoor/Dannebrog
+ */
+#Dannebrog {
+	max-width: 55px;
+	height: auto;
+}
+
+.red {
+	color: red;
+}

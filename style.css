@@ -1,4 +1,5 @@
-/*
+@charset "UTF-8";
+/*!
  Theme Name:   Nuit: a Twenty Seventeen Child
  Theme URI:    https://github.com/asathoor/nuit
  Description:  A Twenty Seventeen Child Theme with some Nodejs features.
@@ -11,22 +12,18 @@
  Tags:         one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
  Text Domain:  petj_nuit
 */
-
 /**
  * Glyphicons
  */
 @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
-
 /**
  * Plugin Dannebrog: flag size
  * @package: Dannebrog
  * @url: https://github.com/asathoor/Dannebrog
  */
 #Dannebrog {
-	max-width: 55px;
-	height: auto;
-}
+  max-width: 55px;
+  height: auto; }
 
 .red {
-	color: red;
-}
+  color: red; }
