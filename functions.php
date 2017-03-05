@@ -25,7 +25,7 @@ function my_theme_enqueue_styles() {
 
 		// animate.css
     wp_enqueue_style( 'animate-css',
-        get_stylesheet_directory_uri() . '/animate.css',
+        get_stylesheet_directory_uri() . '/bower_components/animate.css/animate.min.css',
         '1.0'
     );
 

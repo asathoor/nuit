@@ -10,4 +10,4 @@ Nuit demonstrates rapid development with Nodejs.
 
 ## Sources
 
-* The image of Nuit (or Nut) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Nut_(goddess).
+* The image of Nuit (or Nut) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Nut_(goddess)).
